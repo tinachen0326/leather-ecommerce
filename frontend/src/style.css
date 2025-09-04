@@ -1,0 +1,29 @@
+/* 自定義按鈕樣式 */
+.btn-primary {
+  @apply bg-blue-600 hover:bg-blue-700 text-white font-semibold rounded-lg transition-colors duration-200 inline-block text-center;
+}
+
+.btn-secondary {
+  @apply bg-gray-600 hover:bg-gray-700 text-white font-semibold rounded-lg transition-colors duration-200 inline-block text-center;
+}
+
+/* 自定義主色調 */
+.text-primary-400 {
+  @apply text-blue-400;
+}
+
+.text-primary-100 {
+  @apply text-blue-100;
+}
+
+.bg-primary-600 {
+  @apply bg-blue-600;
+}
+
+.bg-primary-100 {
+  @apply bg-blue-100;
+}
+
+.text-primary-600 {
+  @apply text-blue-600;
+}
