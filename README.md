@@ -28,6 +28,7 @@ Luvo履藝皮鞋是一個模擬真實商業環境的全端電商練習專案，�
 ## 資料結構
 <img width="3201" height="2512" alt="Untitled" src="https://github.com/user-attachments/assets/3ab4c106-1bb4-44c5-9454-4e0acd80b512" />
 ### 核心資料表
+
 ```
  核心資料表:
 ├── users (使用者)
@@ -45,7 +46,9 @@ Luvo履藝皮鞋是一個模擬真實商業環境的全端電商練習專案，�
 ├── coupons (優惠券)
 └── coupon_usage (優惠券使用記錄)
 ```
+
 ## 專案結構
+
 ```
 luvo-ecommerce-practice/
 ├──  frontend/                 # Vue.js 前端應用
@@ -80,6 +83,7 @@ luvo-ecommerce-practice/
 ├──  README.md
 └──  .gitignore
 ```
+
 ## 版權聲明
 此專案僅供個人學習與紀錄使用，無授權任何學習教材用途與商業用途。
 
