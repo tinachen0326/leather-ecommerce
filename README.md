@@ -27,6 +27,7 @@ Luvo履藝皮鞋是一個模擬真實商業環境的全端電商練習專案，�
 
 ## 資料結構
 <img width="3201" height="2512" alt="Untitled" src="https://github.com/user-attachments/assets/3ab4c106-1bb4-44c5-9454-4e0acd80b512" />
+
 ### 核心資料表
 
 ```
